@@ -14,3 +14,8 @@ Rstudio [Posit](https://posit.co/download/rstudio-desktop/)
 Google [Colab](https://colab.research.google.com)
 
 Posit Cloud \([Rstudio cloud](https://posit.cloud)\)
+
+
+## Paquetes disponibles en CRAN
+
+[Listado alfabético](https://cran.r-project.org/web/packages/available_packages_by_name.html)
